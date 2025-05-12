@@ -44,14 +44,23 @@ The project primarily operates through the following command scripts:
 ## Quick Start
 
 1.  **Conceptualize Your Service**:
+
     Describe the AI application or MCP service you want to create in a single sentence.
+
 2.  **Generate Service Code**:
+
     ![alt text](query.png)
+
 3.  **Start the Service**:
+
     ![alt text](run_server.png)
+
 4.  **Join mcp-hub**:
+
     ![alt text](register.png)
+
 5.  **Complete Process**:
+
     ![alt text](image.png)
 
 ## Contributing

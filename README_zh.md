@@ -46,14 +46,24 @@
 ## 快速开始
 
 1.  **构思您的服务**: 
+
     用一句话描述您想要创建的AI应用或MCP服务。
+
 2.  **生成服务代码**:
-   ![alt text](query.png)
+
+    ![alt text](query.png)
+
+
 3.  **启动服务**:
+
     ![alt text](run_server.png)
+
 4.  **加入 mcp-hub**: 
+
     ![alt text](register.png)
+
 5.  **完整过程**:
+
     ![alt text](image.png)
 
 ## 贡献
